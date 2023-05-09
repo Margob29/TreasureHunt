@@ -1,0 +1,14 @@
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.exe.config
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.exe
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.pdb
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.csproj.AssemblyReference.cache
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.csproj.CoreCompileInputs.cache
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.exe
+C:\Users\beka_\OneDrive\Bureau\Projet2021Trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.pdb
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.exe.config
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.exe
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\bin\Debug\Projet2021Tresor.pdb
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.csproj.AssemblyReference.cache
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.csproj.CoreCompileInputs.cache
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.exe
+C:\Users\33777\Desktop\INP\3A\Info\Introduction à la programmation\Projet Chasse au trésor\ProjetProgrammation\Projet2021Tresor\Projet2021Tresor\obj\Debug\Projet2021Tresor.pdb
